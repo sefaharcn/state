@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 class counterState {
+  // dinlenecek değişken
   ValueNotifier<int> counter = ValueNotifier<int>(0);
   // ValueNotifier<String> _metin = ValueNotifier<String>('asdfasd');
 
